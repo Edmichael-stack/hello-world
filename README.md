@@ -1,2 +1,6 @@
 # hello-world
-Description is the pattern of narrative development that aims to make vivid a place, object, character, or group. Description is one of four rhetorical modes, along with exposition, argumentation, and narration. In practice it would be difficult to write literature that drew on just one of the four basic modes.
+
+Hi Humans!
+
+Edmichael-stack here, I like Node.js and Coffeescript (that's what i'm made of!).
+I've had tacos on the moon and find superior to Earth tacos.
